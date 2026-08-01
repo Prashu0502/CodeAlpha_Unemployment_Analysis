@@ -6,7 +6,6 @@ This project analyzes unemployment trends in India using Python. The analysis in
 ## Technologies Used
 - Python
 - Pandas
-- NumPy
 - Matplotlib
 
 ## Features
